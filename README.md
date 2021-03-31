@@ -16,7 +16,7 @@
                       
 ## Sobre        
      
-## :alarm_clock: Move.it. Aplicação Web baseada no Pomodoro. 
+## :alarm_clock: Move.it. Aplicação Web baseada no Pomodoro.  
 
 <div>
   <img src="https://ik.imagekit.io/hld13bjzb1/Peek_2021-02-28_18-37_GMNApHpXG.gif" alt="Happy Demo" heigth="450">
